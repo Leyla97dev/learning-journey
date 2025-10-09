@@ -1,0 +1,73 @@
+a:hover{
+	color: #FEECE2;
+}
+
+.default{
+	text-align: center;
+	color: #3E3F29;
+	background-color: #BCA88D;
+	padding: 5px;
+}
+
+#navbar {
+	background-color: #6B5342;
+	color: #FEECE2;
+}
+
+#navbar ul{
+	padding: 0;
+	list-style: none;
+}
+
+#navbar li{
+	display: inline;
+}
+
+#navbar a{
+	text-decoration: none;
+	color: #97867A;
+	font-size: 15px;
+	padding: 25px;
+	hover: #FEECE2;
+
+}
+
+h1{
+	color: #7B542F;
+	margin: 20px 120px;
+	border-bottom: 1px black solid;
+	padding-bottom: 10px;
+}
+
+h3{
+	border: 1px black solid;
+	margin:0 120px;
+	padding: 5px 0;
+}
+
+.my-form{
+	padding-top: 80px;
+	font-family: Monaco ;
+	font-weight: bold;
+
+}
+
+.my-form label{
+	display: block;
+	padding-bottom: 10px;
+}
+
+.my-form input{
+	margin-bottom: 20px;
+	width: 500px;
+}
+
+.my-form textarea{
+	width: 500px;
+	height: 80px;
+}
+
+.box-1{
+	text-align: center;
+	padding-bottom: 20px;
+}
